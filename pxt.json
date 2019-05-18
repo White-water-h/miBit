@@ -6,7 +6,6 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:kittenbot/pxt-neopixel#v0.6.12",
-        "pxt-MiJiaIR":"github:zhandroids/pxt-MiJiaIR",
         "MiJia-TM1637":"github:zhandroids/MiJia-TM1637",
         "MiJia-oled12864":"github:zhandroids/MiJia-oled12864",
         "pxt-sonar":"github:Microsoft/pxt-sonar",
